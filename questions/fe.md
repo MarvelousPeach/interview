@@ -1,10 +1,10 @@
-# 「OpenSauce.io」前端面试题
+# 「MarvelousPeach」前端面试题
 
 
 ## Step 1: css
 
 参照设计图，写出纯css图形
-![image](https://raw.githubusercontent.com/OpenSauce-IO/interview/master/images/fe_interview_v2.0.jpg)
+![image](https://raw.githubusercontent.com/MarvelousPeach/interview/master/images/fe_interview_v2.0.jpg)
 
 ## Step 2: js
 
@@ -16,5 +16,5 @@
 2. 当有且仅有一个对象，请输出与「已中止」相同的样式
 
 ## Step 3: 上传到github
-注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hire@opensauce.io
+注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hire@coinsummer.com
 注意代码、命名规范。

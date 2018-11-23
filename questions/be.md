@@ -90,4 +90,4 @@ const permissionTypeMap = {
 成功返回上一步函数的处理结果
 
 ## Step 5 上传结果
-注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hire@opensauce.io 注意代码、命名规范
+注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hire@coinsummer.com 注意代码、命名规范
